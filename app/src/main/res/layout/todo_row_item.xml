@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="16dp"
+    android:gravity="center_vertical"
+    android:showDividers="middle"
+    android:divider="@drawable/horizontal_separator"
+    android:background="@drawable/todo_row_item_background">
+
+    <ImageView
+        android:id="@+id/btnToggleComplete"
+        android:layout_width="26dp"
+        android:layout_height="26dp"
+        android:src="@drawable/baseline_radio_button_checked_24"
+        android:contentDescription="@string/toggle_complete"/>
+
+    <TextView
+        android:id="@+id/tvTitle"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/research_on_accessibility_service"
+        android:textSize="16sp"
+        android:textColor="@color/black" />
+
+</LinearLayout>

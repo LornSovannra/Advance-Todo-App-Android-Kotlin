@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Todo-List</string>
+    <string name="add_to_do">Add to do</string>
+    <string name="research_on_accessibility_service">Research on Accessibility Service</string>
+    <string name="toggle_complete">Toggle complete</string>
+    <string name="title">Title</string>
+    <string name="note">Note</string>
+    <string name="done">Done</string>
+    <string name="delete">Delete</string>
+    <string name="empty">Empty</string>
+    <string name="update">Update</string>
+    <string name="completed_tasks">Completed Tasks</string>
+    <string name="ops_currently_you_don_t_have_any_task_n_start_create_it_now">Ops, currently you don\'t have any task.\n Start create it now!</string>
+    <string name="you_have_completed_all_task_start_new_one">You have completed all task. Start new one!</string>
+    <string name="enter_title">Enter title</string>
+    <string name="note_something">Note something...</string>
+    <string name="new_task">New Task</string>
+    <string name="advance_todo_app">Advance Todo App</string>
+</resources>
